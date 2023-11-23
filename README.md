@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='./assets/beep_bapp_boom.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 [Video](https://www.youtube.com/watch?v=GFEapqMBX-E)
 
 <!-- Replace this with whatever GIF tool you used! -->
