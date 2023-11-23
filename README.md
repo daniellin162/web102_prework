@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='Screen Recording 2023-11-24 at 1.49.33 AM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/beep_bapp_boom.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video](https://www.youtube.com/watch?v=GFEapqMBX-E)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...Mac Screen Recording  
